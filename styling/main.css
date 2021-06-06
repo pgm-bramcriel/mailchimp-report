@@ -1,0 +1,36 @@
+section {
+    margin-bottom: 6rem;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+img {
+    width: 50rem;
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+body {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
+}
+
+span {
+    color: rgb(196, 71, 71);
+    font-weight: bold;
+}
+
+p {
+    max-width: 50rem;
+}
+
+.p-bold {
+    font-weight: bold;
+}
